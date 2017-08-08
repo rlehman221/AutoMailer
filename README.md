@@ -2,7 +2,13 @@
 
 ## Summary:
 
-AutoMailer:
+
+## 
+
+## Detailed Explanation:
+
+
+
 
 Uses Python to obtain an access token from Outlooks API. Once requested and received began to extract data in the form of JSON from the Outlook credentials specified. This script can be ututlized for multiple Outlooks functionally but in this case it is used to check against a Data Integrity Agent for fraud emails. 
 
